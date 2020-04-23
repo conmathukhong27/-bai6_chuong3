@@ -1,0 +1,13 @@
+D:\Temp\bai6_chuong3\obj\Debug\netcoreapp3.1\bai6_chuong3.csprojAssemblyReference.cache
+D:\Temp\bai6_chuong3\obj\Debug\netcoreapp3.1\bai6_chuong3.csproj.CoreCompileInputs.cache
+D:\Temp\bai6_chuong3\obj\Debug\netcoreapp3.1\bai6_chuong3.AssemblyInfoInputs.cache
+D:\Temp\bai6_chuong3\obj\Debug\netcoreapp3.1\bai6_chuong3.AssemblyInfo.cs
+D:\Temp\bai6_chuong3\bin\Debug\netcoreapp3.1\bai6_chuong3.exe
+D:\Temp\bai6_chuong3\bin\Debug\netcoreapp3.1\bai6_chuong3.deps.json
+D:\Temp\bai6_chuong3\bin\Debug\netcoreapp3.1\bai6_chuong3.runtimeconfig.json
+D:\Temp\bai6_chuong3\bin\Debug\netcoreapp3.1\bai6_chuong3.runtimeconfig.dev.json
+D:\Temp\bai6_chuong3\bin\Debug\netcoreapp3.1\bai6_chuong3.dll
+D:\Temp\bai6_chuong3\bin\Debug\netcoreapp3.1\bai6_chuong3.pdb
+D:\Temp\bai6_chuong3\obj\Debug\netcoreapp3.1\bai6_chuong3.dll
+D:\Temp\bai6_chuong3\obj\Debug\netcoreapp3.1\bai6_chuong3.pdb
+D:\Temp\bai6_chuong3\obj\Debug\netcoreapp3.1\bai6_chuong3.genruntimeconfig.cache
